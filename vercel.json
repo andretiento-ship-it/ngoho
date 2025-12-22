@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/old-page-path",
+      "destination": "https://gemini.google.com/share/1c4594723d97",
+      "permanent": true
+    }
+  ]
+}
